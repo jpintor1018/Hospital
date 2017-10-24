@@ -1,10 +1,15 @@
 # Hospital
 
 #include <iostream>
+
 #include <math.h>
+
 using namespace std;
+
 int main()
+
 {
+
     int days;
     float total1,total2,telephone,television ;
     char room,answer1,answer2;
